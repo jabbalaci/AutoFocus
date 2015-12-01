@@ -2,7 +2,7 @@
 // @name        AutoFocus
 // @namespace   jabba.laci@gmail.com
 // @description Set focus to the specified input field.
-// @version     1
+// @version     0.0.3
 // @grant       none
 // ==/UserScript==
 
