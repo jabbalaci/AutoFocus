@@ -15,5 +15,14 @@ on the input field.
 You need the [Greasemonkey](https://addons.mozilla.org/en-us/firefox/addon/greasemonkey/)
 add-on to use this script.
 
-* Author: Laszlo Szathmary, 2015
-* Email: <jabba.laci@gmail.com>
+Currently supported websites:
+-----------------------------
+
+* Wikipedia
+* IMDb
+* Amazon
+
+Author
+------
+
+* Laszlo Szathmary alias Jabba Laci, <jabba.laci@gmail.com>, 2015

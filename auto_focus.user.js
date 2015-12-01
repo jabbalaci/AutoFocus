@@ -17,4 +17,8 @@
         document.getElementById('navbar-query').focus();
         return;
     }
+    if (/^https?:\/\/www\.amazon/.test(h)) {
+        document.getElementById('twotabsearchtextbox').focus();
+        return;
+    }
 })();
